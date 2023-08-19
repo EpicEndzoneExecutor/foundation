@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<!-- Modified on: [Today's Date, e.g., 2023-08-19] -->
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Title text for index.html</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>Header text for index.html (i.e., page title)</h1>
+    </header>
+    
+    <nav>
+        <h2>Navigation</h2>
+        <a href="./index.html">Home</a><br>
+        <a href="./boards.html">Boards</a><br>
+    </nav>
+    
+    <!-- Add your main content here if you have any -->
+    
+    <footer>
+        Gabriel A Hurtado<br>
+        University of Advancing Technology<br>
+        2625 W Baseline Rd<br>
+        Tempe, AZ 85283<br>
+    </footer>
+
+</body>
+
+</html>
